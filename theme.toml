@@ -1,0 +1,4 @@
+[status]
+mode_normal = {hidden = true}
+mode_select = {hidden = true}
+mode_unset = {hidden = true}
